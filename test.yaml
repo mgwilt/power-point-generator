@@ -1,0 +1,9 @@
+Slides:
+  - Title: "Slide 1"
+    Content: "This is the content for slide 1"
+    ImagePath: "images/image1.png"
+  - Title: "Slide 2"
+    Content: "This is the content for slide 2"
+    ImagePath: "images/image2.png"
+  - Title: "Slide 3"
+    Content: "This is the content for slide 3"
